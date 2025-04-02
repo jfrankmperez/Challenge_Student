@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: CodeChallenge
+  r2dbc:
+    url: r2dbc:h2:mem:///studentdb
+    username: sa
+    password:
+  sql:
+    init:
+      mode: always
