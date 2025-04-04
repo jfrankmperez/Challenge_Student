@@ -1,3 +1,2 @@
-
- a  0INSERT INTO STUDENTS(NAME, LASTNAME, STATUS, AGE) VALUES ('Frank', 'Moreno', 'inactive', 28);
+INSERT INTO STUDENTS(NAME, LASTNAME, STATUS, AGE) VALUES ('Frank', 'Moreno', 'inactive', 28);
 INSERT INTO STUDENTS(NAME, LASTNAME, STATUS, AGE) VALUES ('Jhon', 'Perez', 'inactive', 20);
